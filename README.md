@@ -38,10 +38,14 @@ The platform uses JWT for secure login and registration, ensuring the privacy of
 <h3>To set up the project locally:</h3>
 <pre>
   1-Clone the repository:
-  git clone https://github.com/nohamostafa123/private-teacher-project.git</pre>
+  git clone https://github.com/WessamMohamed22/Private-Teacher-Website.git</pre>
 <pre>
   2-Navigate to the project directory:
-  cd private-teacher-project
+  cd Private-Teacher-Website
+</pre>
+<pre>
+  2-Navigate to the frontend folder:
+  cd frontend
 </pre>
 <pre>
  3-Install dependencies for the frontend :
@@ -53,12 +57,12 @@ The platform uses JWT for secure login and registration, ensuring the privacy of
 </pre>
 <h3>And to install our backend server</h3>
 <pre>
-  1-Clone the repository:
-  git clone https://github.com/RahmaYahiaa/private-teacher-backend.git
+  1-Navigate back to the project root:
+  cd ..
 </pre>
 <pre>
-  2-Navigate to the project directory:
-  cd private-teacher-backend
+  2-Navigate to the backend folder:
+  cd backend
 </pre>
 <pre>
  3-Install dependencies for both the backend:
