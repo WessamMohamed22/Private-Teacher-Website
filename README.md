@@ -1,4 +1,4 @@
-<h1 style="font-weight: 700;">🎓 Private Teacher Project</h1>
+<h1 style="font-weight: 700;">🎓Private Teacher Project</h1>
 Private Teacher is a full-stack web application designed to help students easily find private teachers for one-on-one lessons and to allow teachers to showcase their expertise. Each student and teacher has a profile account, allowing students to search for the right teacher while teachers can manage their profiles and bookings.
 
 <h1 style="font-weight: 700;">📖 Project Overview</h1>
