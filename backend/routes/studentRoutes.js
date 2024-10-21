@@ -12,11 +12,4 @@ router.delete('/delete/:id', deleteStudent);
 router.get('/list', getStudents);
 
 
-
-
-
-
-
-
-
 module.exports = router;
